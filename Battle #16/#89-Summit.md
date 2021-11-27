@@ -1,3 +1,1 @@
-```html
 <c><t><style>*{position:fixed;background:var(--,#191919);padding:100;left:100;top:50}c{border-radius:50%;--:#F9E492}t{transform:rotate(45deg);top:200;--:radial-gradient(at -7q -6q,#191919 106q,#4F77FF 106q
-```
