@@ -1,0 +1,1 @@
+<style>*{background:radial-gradient(1q,#F3AC3C 5vw,#0E2E2C 0 30q,#F3AC3C 0 42q,#0E2E2C 0 53q,#998235 0 64q,#0E2E2C 0 76q,#F3AC3C 0 85q,#0E2E2C 0 99q,#F3AC3C 0 25vw,#0E2E2C
